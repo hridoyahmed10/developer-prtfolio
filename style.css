@@ -40,3 +40,19 @@ section {
     background-repeat: no-repeat;
 
 }
+
+.bottom-half img {
+    width: 80%;
+}
+
+.bottom-half {
+    width: 50%;
+    padding: 20px;
+    text-decoration: justify;
+}
+
+.bottom-banner {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
